@@ -18,6 +18,9 @@ Ejercicios de la Práctica 4 de la materia Organización de Computadoras: lengua
 >
 >* Acceder a los [Resúmenes de Teoría](https://drive.google.com/file/d/1X9rbwQshPuZHU6X-fODS4OMedlEIMUqQ/view?usp=sharing) para el estudio del final.
 
+<br>
+<br>
+<br>
 
 <p><img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/firmagith.png" alt="marigit"/></p>
 
